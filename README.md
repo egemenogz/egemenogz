@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @egemenogz
 - 👀 I’m interested to coding
-- 🌱 I’m currently learning frontend 
+- 🌱 I’m currently learning deeper develop
 - 💞️ I’m looking to collaborate on ideas
 - 📫 How to reach me egemen.oztel@gmail.com
 
