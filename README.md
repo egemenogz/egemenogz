@@ -18,7 +18,7 @@ I specialize in both front-end and back-end development, focusing on delivering 
 Feel free to check out some of my [projects](https://github.com/egemenogz?tab=repositories)
 
 ## Get in Touch ##
-I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision. Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/egemen-o%C4%9Fuz-%C3%B6ztel-a2097818a/) or send me an email at egemen.oztel@gmail.com.com
+I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision. Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/egemen-o%C4%9Fuz-%C3%B6ztel-a2097818a/) or send me an email at egemen.oztel@gmail.com
 
 <!---
 egemenogz/egemenogz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
