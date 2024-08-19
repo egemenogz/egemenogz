@@ -12,7 +12,7 @@ I specialize in both front-end and back-end development, focusing on delivering 
 - Creating dynamic and responsive designs with HTML, CSS, and jQuery
 - Implementing modern JavaScript techniques with TypeScript for robust applications
 - Building and styling components with CSS and frameworks like Bootstrap
-- 
+
 ## Projects ##
 
 Feel free to check out some of my [projects](https://github.com/egemenogz?tab=repositories)
